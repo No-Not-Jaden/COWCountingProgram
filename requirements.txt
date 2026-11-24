@@ -1,0 +1,7 @@
+--index-url https://download.pytorch.org/whl/cu134
+
+torch
+torchvision
+kagglehub
+dataset-tools
+ultralytics
